@@ -17,10 +17,12 @@ const About = () => {
 
             studying in Bachelor of Engineering Program in Industrial Engineering Technology with in electronic-computer branch
 
-            I love to create Mobile app or Web app projects with AI, you can check out some of my project in the projects section.<br/><br/>
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love to do photography, you can check out some of my shots here <a href="https://www.instagram.com/devansh_sahni_/?hl=en" target='_blank'>Instagram.</a>
+            I love to create Mobile app or Web app projects with AI Technology, you can check out some of my project in the projects section.<br/><br/>
+            <br/>
           </p>
+          <a href="#Skill" className="scroll-button">
+              <o>Check My Skill</o>
+            </a>
         </div>
 
         <div>
@@ -34,25 +36,28 @@ const About = () => {
         </div>
 
       </div>
-      
-      <h1 className='SkillsHeading'>Professional Skillset</h1>
+      <section id="Skill">
+      <h1 className='SkillsHeading'>Professional Skill</h1>
       <div className='skills'>
         
         <Skills skill='React' />
         <Skills skill='Node' />
-        <Skills skill='Express' />
+        <Skills skill='Tensorflow'/>
         <Skills skill='MongoDb' />
         <Skills skill='Git' />
         <Skills skill='Github' />
         <Skills skill='Javascript' />
-        <Skills skill='C++' />
+        <Skills skill='Python'/>
         <Skills skill='Postman' />
         <Skills skill='Figma' />
-        <Skills skill='Vercel' />
-        <Skills skill='Npm' />
+        <Skills skill='Mysql' />
+        <Skills skill='Flutter' />
         <Skills skill='Bootstrap'/>
+        <Skills skill='Firebase' />
+        <Skills skill='GoogleCloudPlatform' />
         
       </div>
+      </section>
     </>
   )
 }

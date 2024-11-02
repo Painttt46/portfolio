@@ -24,6 +24,11 @@ body{
   color: #E7E7E7;
   min-height: 100vh;
 }
+o{
+  font-weight: 900;
+  color: white;
+  text-decoration: none;
+}
 
 b{
   font-weight: 900;
@@ -50,8 +55,22 @@ b{
   z-index: -1;
   overflow: hidden;
   bottom: -5px; 
-  width: 500%;     
+  width:300%; 
    
+   
+}
+.bgtwo{
+  position:fixed;
+  z-index: -1;
+  top: 220px;
+  width: 300%; 
+}
+
+.bgtemp{
+  position:fixed;
+  z-index: -1;
+  top: -30px;
+  width: 300%; 
 }
 
 
@@ -434,8 +453,10 @@ b{
 
 .projectPhoto{
   display: block;
-  width: 100%;
-  margin: 20px 0px;
+  width: 50%;
+  height:auto;
+  margin: 20px auto;
+  
 }
 
 .projectbtn{

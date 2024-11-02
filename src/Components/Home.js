@@ -21,7 +21,7 @@ const Home = () => {
           <br/>
           <p className="scroll-down">
             <a href="#intro" className="scroll-button">
-              My introduction
+              <h3>My introduction</h3>
             </a>
           </p>
         </div>
@@ -34,10 +34,7 @@ const Home = () => {
               Veraprat <b>introduction</b>
             </h1>
             <p>
-              I am a fourth-year student at King Mongkut's University of
-              Technology North Bangkok, studying in Bachelor of Engineering
-              Program in Industrial Engineering Technology with in
-              electronic-computer branch
+              aaa
               <br />
               <br />I am fluent in <b>C++</b> and know a bit of <b>Python</b>{" "}
               and am working on a few projects in the <b>MERN</b> stack.

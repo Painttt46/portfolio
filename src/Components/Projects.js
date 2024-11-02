@@ -1,8 +1,8 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
 import NewsletterImage from '../images/NewsletterImage.png';
-import RogfreeImage from '../images/RogfreeImage.png';
-import TindogImage from '../images/TindogImage.png';
+import RicemainImage from '../images/Ricemain.png';
+import kmunityImage from '../images/KMain.png';
 import WigglesImage from '../images/WigglesImage.png';
 
 const Projects = () => {
@@ -12,8 +12,8 @@ const Projects = () => {
       <div className='project'>
         <ProjectBox projectPhoto={WigglesImage} projectName="Wiggles" />
         <ProjectBox projectPhoto={NewsletterImage} projectName="Newsletter" />
-        <ProjectBox projectPhoto={RogfreeImage} projectName="RogFree" />
-        <ProjectBox projectPhoto={TindogImage} projectName="Tindog" />
+        <ProjectBox projectPhoto={RicemainImage} projectName="RiceGuard" />
+        <ProjectBox projectPhoto={kmunityImage} projectName="Kmunity" />
       </div>
 
     </div>
