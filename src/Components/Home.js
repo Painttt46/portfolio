@@ -34,15 +34,16 @@ const Home = () => {
               Veraprat <b>introduction</b>
             </h1>
             <p>
-              aaa
-              <br />
-              <br />I am fluent in <b>C++</b> and know a bit of <b>Python</b>{" "}
-              and am working on a few projects in the <b>MERN</b> stack.
-              <br />I plan to learn <b>Next.js</b>, <b>Three.js</b> and
+              
+              
+              <br />I am fluent in <b>Python</b> and <b>Dart</b> with bit normal knowledge about <b>Html , Css , JavaScript</b>{" "}
+              and am internship at <b>United Information Highway Company (UIH)</b>
+              <br />I plan to learn <b>golang</b> , <b>C#.net </b> and
               <b> Typescript</b> in the near future. <br />
               <br />
-              Also, I love <b>coffee</b>{" "}
-              <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
+              In free time i watch movie , play game and a bit read the article. My nature is a quiet person but will talkative with Acquaintance and i also have much positive thinking because it will make my live happy.
+             
+              
             </p>
           </div>
           <Tilt>
