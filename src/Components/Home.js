@@ -15,7 +15,7 @@ const Home = () => {
           <h1>
             My Name is <b>Veraprat Kladlex</b>
           </h1>
-          <h2>Programmer and student who enjoys coding</h2>
+          <h2>Senior Programmer and student who enjoys coding</h2>
           <h2>and like to learning new things and exploring fresh ideas.</h2>
           <br />
           <br/>
