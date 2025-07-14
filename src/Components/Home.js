@@ -37,9 +37,8 @@ const Home = () => {
               
               
               <br />I am fluent in <b>Python</b> and <b>Dart</b> with bit normal knowledge about <b>Html , Css , JavaScript</b>{" "}
-              and am internship at <b>United Information Highway Company (UIH)</b>
-              <br />I plan to learn <b>golang</b> , <b>C#.net </b> and
-              <b> Typescript</b> in the near future. <br />
+              and have try internship at <b>United Information Highway Company (UIH)</b>
+              <br />I plan to learn <b>new tools / skill</b> for improve myself <br />
               <br />
               In free time i watch movie , play game and a bit read the article. My nature is a quiet person but will talkative with Acquaintance and i also have much positive thinking because it will make my live happy.
              
